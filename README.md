@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Kazuo 👋
 
-<!--
-**LucasKazuo-lol/LucasKazuo-lol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas**, aprendendo na prática com exercícios e projetos.
 
-Here are some ideas to get you started:
+Neste perfil, compartilho minha evolução em programação, desde lógica e orientação a objetos até projetos para o navegador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em estudo
+
+**Python · Java · JavaScript · HTML · Canvas · PL/SQL · Git**
+
+## Projetos e estudos
+
+| Repositório | Sobre |
+| --- | --- |
+| [POO com Python](https://github.com/LucasKazuo-lol/POO-Python) | Exercícios de classes, objetos, métodos e uma simulação de conta bancária. |
+| [Estudos de Python e PL/SQL](https://github.com/LucasKazuo-lol/Esc) | Lógica de programação, análise de notas, listas e estruturas de repetição. |
+| [Estudos de Java](https://github.com/LucasKazuo-lol/Programa-o-Instensiva) | Primeiros exercícios com variáveis, entrada de dados e cálculos. |
+| [Batman: Gotham Nights](https://github.com/LucasKazuo-lol/Jogo-Batman) | Protótipo de jogo 2D com JavaScript e Canvas, a partir do projeto de [felipenono](https://github.com/felipenono/batman-gotham-nights). |
+
+Os repositórios registram meu processo de aprendizagem e estão em evolução.
