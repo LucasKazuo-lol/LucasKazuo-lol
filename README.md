@@ -6,7 +6,7 @@ Neste perfil, compartilho minha evolução em programação, desde lógica e ori
 
 ## Tecnologias em estudo
 
-**Python · Java · JavaScript · HTML · Canvas · PL/SQL · Git**
+**Python · JavaScript · HTML · Canvas · PL/SQL · Git**
 
 ## Projetos e estudos
 
@@ -14,6 +14,5 @@ Neste perfil, compartilho minha evolução em programação, desde lógica e ori
 | --- | --- |
 | [POO com Python](https://github.com/LucasKazuo-lol/POO-Python) | Exercícios de classes, objetos, métodos e uma simulação de conta bancária. |
 | [Estudos de Python e PL/SQL](https://github.com/LucasKazuo-lol/Esc) | Lógica de programação, análise de notas, listas e estruturas de repetição. |
-| [Estudos de Java](https://github.com/LucasKazuo-lol/Programa-o-Instensiva) | Primeiros exercícios com variáveis, entrada de dados e cálculos. |
 
 Os repositórios registram meu processo de aprendizagem e estão em evolução.
